@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Angular-NodeJS-full-stack](https://github.com/thakur00007/Angular-NodeJS-full-stack)
 
-- 🌱 I’m currently learning **Spring**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/thakur00007?tab=repositories](https://github.com/thakur00007?tab=repositories)
 
