@@ -1,16 +1,18 @@
 <h1 align="center">Hi 👋, I'm Tanmoy Dasthakur</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate full stack developer from Kolkata, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thakur00007&label=Profile%20views&color=0e75b6&style=flat" alt="thakur00007" /> </p>
 
 
-- 🔭 I’m currently working on [Angular-NodeJS-full-stack](https://github.com/thakur00007/Angular-NodeJS-full-stack)
+- 🔭 I’m currently working on [React-NodeJS](https://github.com/thakur00007/password-manager-react)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning [React](https://react.dev/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/thakur00007?tab=repositories](https://github.com/thakur00007?tab=repositories)
 
-- 📫 How to reach me **thakurtd01@gmail.com**
+- 📫 How to reach me thakurtd01@gmail.com
+
+- 🌐 Visit me at my [**Portfolio Website**](https://meetanmoy.in)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
